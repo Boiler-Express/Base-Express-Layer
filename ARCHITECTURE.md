@@ -9,8 +9,6 @@
 
 <img src="./ARCHITECTURE.png" style="width: 700px;">
 
-<hr>
-
 ## Explain folder structure
 
 `Base-Express` is really small Basic Application.
